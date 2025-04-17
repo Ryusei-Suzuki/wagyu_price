@@ -61,3 +61,11 @@ footer {
 .card {
   border-radius: 0;
 }
+
+/* .nav-link {
+  color: #17a2b8;
+} */
+
+.fas.fa-search {
+  color: #17a2b8;
+}
